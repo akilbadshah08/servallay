@@ -1,0 +1,2 @@
+[08-Jun-2021 01:45:32 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Middleware\ThrottleRequests' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequestsWithRedis.php on line 9
+[08-Jun-2021 03:01:17 UTC] PHP Fatal error:  Trait 'Illuminate\Support\InteractsWithTime' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php on line 15

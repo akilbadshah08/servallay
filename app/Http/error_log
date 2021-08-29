@@ -1,0 +1,1 @@
+[28-May-2021 07:41:39 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/pixagency/public_html/store/app/Http/Kernel.php on line 7

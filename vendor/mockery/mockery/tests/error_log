@@ -1,0 +1,4 @@
+[26-May-2021 18:02:25 UTC] PHP Fatal error:  Uncaught Exception: Please run "php composer.phar install" in root directory to setup unit test dependencies before running the tests in /home/pixagency/public_html/store/vendor/mockery/mockery/tests/Bootstrap.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/vendor/mockery/mockery/tests/Bootstrap.php on line 45

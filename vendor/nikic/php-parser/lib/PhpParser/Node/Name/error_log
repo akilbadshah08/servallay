@@ -1,0 +1,2 @@
+[08-Jun-2021 03:20:14 UTC] PHP Fatal error:  Class 'PhpParser\Node\Name' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Node/Name/FullyQualified.php on line 5
+[08-Jun-2021 06:29:45 UTC] PHP Fatal error:  Class 'PhpParser\Node\Name' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php on line 5

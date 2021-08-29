@@ -1,0 +1,2 @@
+[02-Jun-2021 20:15:26 UTC] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/pixagency/public_html/store/vendor/ramsey/uuid/src/Builder/DefaultUuidBuilder.php on line 25
+[06-Jun-2021 06:55:04 UTC] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/pixagency/public_html/store/vendor/ramsey/uuid/src/Builder/DegradedUuidBuilder.php on line 24

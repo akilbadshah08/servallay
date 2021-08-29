@@ -1,0 +1,2 @@
+[07-Jun-2021 05:19:23 UTC] PHP Fatal error:  Class 'Symfony\Component\HttpKernel\DependencyInjection\Extension' not found in /home/pixagency/public_html/store/vendor/cocur/slugify/src/Bridge/Symfony/CocurSlugifyExtension.php on line 29
+[09-Jun-2021 15:57:32 UTC] PHP Fatal error:  Interface 'Symfony\Component\Config\Definition\ConfigurationInterface' not found in /home/pixagency/public_html/store/vendor/cocur/slugify/src/Bridge/Symfony/Configuration.php on line 17

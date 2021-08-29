@@ -1,0 +1,1 @@
+[30-May-2021 15:53:08 UTC] PHP Fatal error:  Class 'PHPUnit\Util\Printer' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/TextUI/ResultPrinter.php on line 30

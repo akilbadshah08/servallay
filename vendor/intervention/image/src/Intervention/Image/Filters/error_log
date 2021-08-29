@@ -1,0 +1,1 @@
+[29-May-2021 16:43:14 UTC] PHP Fatal error:  Interface 'Intervention\Image\Filters\FilterInterface' not found in /home/pixagency/public_html/store/vendor/intervention/image/src/Intervention/Image/Filters/DemoFilter.php on line 5

@@ -1,0 +1,1 @@
+[08-Jun-2021 12:01:41 UTC] PHP Fatal error:  Trait 'Illuminate\Auth\Access\HandlesAuthorization' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 13

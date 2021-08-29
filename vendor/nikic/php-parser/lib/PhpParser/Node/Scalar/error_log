@@ -1,0 +1,6 @@
+[06-Jun-2021 05:10:55 UTC] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst.php on line 7
+[08-Jun-2021 05:51:45 UTC] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/LNumber.php on line 8
+[08-Jun-2021 06:20:10 UTC] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/Encapsed.php on line 8
+[08-Jun-2021 09:39:12 UTC] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/String_.php on line 8
+[10-Jun-2021 04:35:00 UTC] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/DNumber.php on line 7
+[10-Jun-2021 05:22:21 UTC] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/EncapsedStringPart.php on line 7

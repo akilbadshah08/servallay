@@ -1,0 +1,2 @@
+[10-Jun-2021 02:03:29 UTC] PHP Fatal error:  Interface 'Psr\Container\NotFoundExceptionInterface' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[10-Jun-2021 13:15:46 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Container\Container' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 13

@@ -1,0 +1,5 @@
+[29-May-2021 13:28:52 UTC] PHP Fatal error:  Class 'League\Container\ServiceProvider\AbstractServiceProvider' not found in /home/pixagency/public_html/store/vendor/intervention/image/src/Intervention/Image/ImageServiceProviderLeague.php on line 7
+[29-May-2021 14:04:50 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/intervention/image/src/Intervention/Image/ImageServiceProviderLumen.php on line 7
+[29-May-2021 15:16:50 UTC] PHP Fatal error:  Class 'Intervention\Image\File' not found in /home/pixagency/public_html/store/vendor/intervention/image/src/Intervention/Image/Image.php on line 54
+[29-May-2021 15:31:15 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/intervention/image/src/Intervention/Image/ImageServiceProviderLaravel4.php on line 8
+[29-May-2021 15:45:39 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/intervention/image/src/Intervention/Image/ImageServiceProvider.php on line 7

@@ -1,0 +1,13 @@
+[30-May-2021 15:44:39 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Core/AnyOfTest.php on line 4
+[30-May-2021 15:47:27 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Core/IsNotTest.php on line 4
+[30-May-2021 15:48:36 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Core/IsSameTest.php on line 4
+[30-May-2021 15:48:43 UTC] PHP Fatal error:  Class 'Hamcrest\Core\SampleBaseClass' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Core/SampleSubClass.php on line 4
+[30-May-2021 15:48:51 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Core/IsNullTest.php on line 4
+[30-May-2021 15:51:12 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Core/DescribedAsTest.php on line 4
+[30-May-2021 15:52:32 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Core/IsAnythingTest.php on line 4
+[30-May-2021 15:54:25 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Core/IsEqualTest.php on line 19
+[30-May-2021 15:55:57 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Core/IsInstanceOfTest.php on line 4
+[30-May-2021 15:56:22 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Core/CombinableMatcherTest.php on line 4
+[30-May-2021 15:58:48 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Core/IsTypeOfTest.php on line 4
+[01-Jun-2021 05:17:06 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Core/HasToStringTest.php on line 33
+[01-Jun-2021 07:10:43 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Core/IsTest.php on line 4

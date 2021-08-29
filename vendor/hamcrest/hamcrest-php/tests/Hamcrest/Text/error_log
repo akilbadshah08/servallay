@@ -1,0 +1,9 @@
+[30-May-2021 15:41:52 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/IsEmptyStringTest.php on line 4
+[30-May-2021 15:59:47 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringContainsTest.php on line 4
+[01-Jun-2021 21:25:48 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/MatchesPatternTest.php on line 4
+[03-Jun-2021 05:34:00 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringContainsIgnoringCaseTest.php on line 4
+[03-Jun-2021 05:52:56 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/IsEqualIgnoringCaseTest.php on line 4
+[03-Jun-2021 07:56:00 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringContainsInOrderTest.php on line 4
+[03-Jun-2021 08:43:20 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/IsEqualIgnoringWhiteSpaceTest.php on line 4
+[03-Jun-2021 09:21:12 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringStartsWithTest.php on line 4
+[03-Jun-2021 09:49:36 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Text/StringEndsWithTest.php on line 4

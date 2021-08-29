@@ -1,0 +1,5 @@
+[07-Jun-2021 10:50:44 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Session/SessionServiceProvider.php on line 8
+[07-Jun-2021 11:47:32 UTC] PHP Fatal error:  Class 'Illuminate\Support\Manager' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php on line 7
+[07-Jun-2021 13:50:36 UTC] PHP Fatal error:  Trait 'Illuminate\Support\InteractsWithTime' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Session/CookieSessionHandler.php on line 12
+[09-Jun-2021 01:16:44 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Session\Session' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Session/Store.php on line 12
+[10-Jun-2021 01:25:36 UTC] PHP Fatal error:  Trait 'Illuminate\Support\InteractsWithTime' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Session/DatabaseSessionHandler.php on line 16

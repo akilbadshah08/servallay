@@ -1,0 +1,1 @@
+[07-Jun-2021 09:16:04 UTC] PHP Fatal error:  Interface 'Pimple\ServiceProviderInterface' not found in /home/pixagency/public_html/store/vendor/cocur/slugify/src/Bridge/Silex2/SlugifyServiceProvider.php on line 26

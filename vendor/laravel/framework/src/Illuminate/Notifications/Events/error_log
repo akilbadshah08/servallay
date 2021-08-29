@@ -1,0 +1,4 @@
+[10-Jun-2021 10:25:19 UTC] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Notifications/Events/NotificationFailed.php on line 10
+[10-Jun-2021 16:06:12 UTC] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Notifications/Events/NotificationSending.php on line 10
+[10-Jun-2021 23:50:05 UTC] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Notifications/Events/BroadcastNotificationCreated.php on line 12
+[11-Jun-2021 00:02:42 UTC] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Notifications/Events/NotificationSent.php on line 10

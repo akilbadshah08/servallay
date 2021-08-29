@@ -1,0 +1,8 @@
+[01-Jun-2021 00:47:37 UTC] PHP Fatal error:  Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/pixagency/public_html/store/vendor/ramsey/uuid/src/Generator/MtRandGenerator.php on line 23
+[01-Jun-2021 00:47:47 UTC] PHP Fatal error:  Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/pixagency/public_html/store/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 24
+[01-Jun-2021 00:51:26 UTC] PHP Fatal error:  Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/pixagency/public_html/store/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 25
+[01-Jun-2021 00:53:18 UTC] PHP Fatal error:  Interface 'Ramsey\Uuid\Generator\TimeGeneratorInterface' not found in /home/pixagency/public_html/store/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 27
+[01-Jun-2021 00:54:09 UTC] PHP Fatal error:  Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/pixagency/public_html/store/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 26
+[01-Jun-2021 00:54:56 UTC] PHP Fatal error:  Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/pixagency/public_html/store/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 23
+[01-Jun-2021 00:55:46 UTC] PHP Fatal error:  Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/pixagency/public_html/store/vendor/ramsey/uuid/src/Generator/OpenSslGenerator.php on line 26
+[01-Jun-2021 10:48:28 UTC] PHP Fatal error:  Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/pixagency/public_html/store/vendor/ramsey/uuid/src/Generator/SodiumRandomGenerator.php on line 24

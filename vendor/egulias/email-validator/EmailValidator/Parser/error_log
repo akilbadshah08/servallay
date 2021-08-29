@@ -1,0 +1,2 @@
+[29-May-2021 11:43:37 UTC] PHP Fatal error:  Class 'Egulias\EmailValidator\Parser\Parser' not found in /home/pixagency/public_html/store/vendor/egulias/email-validator/EmailValidator/Parser/DomainPart.php on line 35
+[29-May-2021 14:33:38 UTC] PHP Fatal error:  Class 'Egulias\EmailValidator\Parser\Parser' not found in /home/pixagency/public_html/store/vendor/egulias/email-validator/EmailValidator/Parser/LocalPart.php on line 16

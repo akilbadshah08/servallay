@@ -1,0 +1,1 @@
+[10-Jun-2021 18:28:12 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Cookie\Factory' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Contracts/Cookie/QueueingFactory.php on line 5

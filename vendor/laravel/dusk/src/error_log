@@ -1,0 +1,4 @@
+[28-May-2021 07:55:07 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pixagency/public_html/store/vendor/laravel/dusk/src/TestCase.php on line 11
+[28-May-2021 07:55:29 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/pixagency/public_html/store/vendor/laravel/dusk/src/ElementResolver.php on line 13
+[28-May-2021 07:55:38 UTC] PHP Fatal error:  Trait 'Laravel\Dusk\Concerns\InteractsWithAuthentication' not found in /home/pixagency/public_html/store/vendor/laravel/dusk/src/Browser.php on line 14
+[28-May-2021 07:59:01 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/laravel/dusk/src/DuskServiceProvider.php on line 9

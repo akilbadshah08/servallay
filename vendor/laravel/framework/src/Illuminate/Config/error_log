@@ -1,0 +1,1 @@
+[03-Jun-2021 02:53:04 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Config\Repository' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 9

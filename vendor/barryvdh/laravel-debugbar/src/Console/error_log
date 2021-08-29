@@ -1,0 +1,1 @@
+[31-May-2021 09:23:48 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/pixagency/public_html/store/vendor/barryvdh/laravel-debugbar/src/Console/ClearCommand.php on line 6

@@ -1,0 +1,4 @@
+[09-Jun-2021 22:44:39 UTC] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Auth/Events/Registered.php on line 9
+[10-Jun-2021 01:16:09 UTC] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Auth/Events/Logout.php on line 9
+[10-Jun-2021 14:03:07 UTC] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Auth/Events/PasswordReset.php on line 9
+[10-Jun-2021 15:56:43 UTC] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Auth/Events/Login.php on line 9

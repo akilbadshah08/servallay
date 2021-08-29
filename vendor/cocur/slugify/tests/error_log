@@ -1,0 +1,1 @@
+[28-May-2021 08:05:56 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/pixagency/public_html/store/vendor/cocur/slugify/tests/SlugifyTest.php on line 28

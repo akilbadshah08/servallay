@@ -1,0 +1,28 @@
+[26-May-2021 15:31:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/pixagency/public_html/store/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/routes/web.php on line 14
+[28-May-2021 07:37:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/pixagency/public_html/store/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/routes/channels.php on line 14
+[28-May-2021 07:37:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/pixagency/public_html/store/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/routes/console.php on line 16
+[12-Jun-2021 10:28:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/pixagency/public_html/store/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/routes/api.php on line 16
+[12-Jun-2021 10:28:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/pixagency/public_html/store/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/routes/channels.php on line 14
+[12-Jun-2021 10:29:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/pixagency/public_html/store/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/routes/console.php on line 16
+[12-Jun-2021 10:29:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/pixagency/public_html/store/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/routes/web.php on line 14

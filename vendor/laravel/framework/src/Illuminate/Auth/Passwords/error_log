@@ -1,0 +1,2 @@
+[10-Jun-2021 00:09:51 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordResetServiceProvider.php on line 7
+[10-Jun-2021 13:44:10 UTC] PHP Fatal error:  Interface 'Illuminate\Auth\Passwords\TokenRepositoryInterface' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Auth/Passwords/DatabaseTokenRepository.php on line 11

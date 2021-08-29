@@ -1,0 +1,1 @@
+[29-May-2021 12:45:39 UTC] PHP Fatal error:  Class 'DeepCopy\f001\A' not found in /home/pixagency/public_html/store/vendor/myclabs/deep-copy/fixtures/f001/B.php on line 5

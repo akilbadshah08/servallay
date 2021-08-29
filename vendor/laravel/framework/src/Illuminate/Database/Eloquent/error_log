@@ -1,0 +1,4 @@
+[10-Jun-2021 16:53:31 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Concerns\BuildsQueries' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 20
+[10-Jun-2021 21:37:33 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\Concerns\HasAttributes' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 21
+[10-Jun-2021 22:34:23 UTC] PHP Fatal error:  Interface 'Illuminate\Database\Eloquent\Scope' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletingScope.php on line 5
+[11-Jun-2021 00:18:29 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\EntityResolver' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Database/Eloquent/QueueEntityResolver.php on line 8

@@ -1,0 +1,1 @@
+[03-Jun-2021 11:33:44 UTC] PHP Fatal error:  Class 'PhpParser\Comment' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5

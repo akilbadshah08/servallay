@@ -1,0 +1,1 @@
+[10-Jun-2021 09:37:59 UTC] PHP Fatal error:  Class 'Twig_Extension' not found in /home/pixagency/public_html/store/vendor/cocur/slugify/src/Bridge/Twig/SlugifyExtension.php on line 26

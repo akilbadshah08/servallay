@@ -1,0 +1,1 @@
+[06-Jun-2021 09:35:59 UTC] PHP Fatal error:  Class 'Nette\DI\CompilerExtension' not found in /home/pixagency/public_html/store/vendor/cocur/slugify/src/Bridge/Nette/SlugifyExtension.php on line 16

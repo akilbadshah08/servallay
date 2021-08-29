@@ -1,0 +1,1 @@
+[30-May-2021 23:26:26 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/pixagency/public_html/store/vendor/dnoegel/php-xdg-base-dir/tests/XdgTest.php on line 3

@@ -1,0 +1,8 @@
+[02-Jun-2021 12:22:06 UTC] PHP Fatal error:  Class 'League\Flysystem\Plugin\AbstractPlugin' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Plugin/ListFiles.php on line 5
+[02-Jun-2021 12:31:34 UTC] PHP Fatal error:  Class 'League\Flysystem\Plugin\AbstractPlugin' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Plugin/ForcedRename.php on line 8
+[02-Jun-2021 13:09:26 UTC] PHP Fatal error:  Class 'League\Flysystem\Plugin\AbstractPlugin' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Plugin/ListPaths.php on line 5
+[02-Jun-2021 13:37:50 UTC] PHP Fatal error:  Class 'League\Flysystem\Plugin\AbstractPlugin' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Plugin/EmptyDir.php on line 5
+[02-Jun-2021 15:03:02 UTC] PHP Fatal error:  Class 'League\Flysystem\Plugin\AbstractPlugin' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Plugin/GetWithMetadata.php on line 8
+[02-Jun-2021 15:12:30 UTC] PHP Fatal error:  Interface 'League\Flysystem\PluginInterface' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Plugin/AbstractPlugin.php on line 8
+[02-Jun-2021 15:59:50 UTC] PHP Fatal error:  Class 'League\Flysystem\Plugin\AbstractPlugin' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Plugin/ListWith.php on line 5
+[02-Jun-2021 16:28:14 UTC] PHP Fatal error:  Class 'League\Flysystem\Plugin\AbstractPlugin' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Plugin/ForcedCopy.php on line 8

@@ -1,0 +1,7 @@
+[28-May-2021 08:07:35 UTC] PHP Fatal error:  Class 'PharIo\Version\AbstractVersionConstraint' not found in /home/pixagency/public_html/store/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 13
+[28-May-2021 08:08:08 UTC] PHP Fatal error:  Class 'PharIo\Version\AbstractVersionConstraint' not found in /home/pixagency/public_html/store/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php on line 13
+[28-May-2021 08:08:42 UTC] PHP Fatal error:  Class 'PharIo\Version\AbstractVersionConstraint' not found in /home/pixagency/public_html/store/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php on line 13
+[28-May-2021 08:09:14 UTC] PHP Fatal error:  Class 'PharIo\Version\AbstractVersionConstraint' not found in /home/pixagency/public_html/store/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 13
+[28-May-2021 08:10:19 UTC] PHP Fatal error:  Interface 'PharIo\Version\VersionConstraint' not found in /home/pixagency/public_html/store/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 13
+[28-May-2021 08:11:18 UTC] PHP Fatal error:  Class 'PharIo\Version\AbstractVersionConstraint' not found in /home/pixagency/public_html/store/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 13
+[28-May-2021 08:12:53 UTC] PHP Fatal error:  Class 'PharIo\Version\AbstractVersionConstraint' not found in /home/pixagency/public_html/store/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 13

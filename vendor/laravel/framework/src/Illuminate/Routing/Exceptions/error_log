@@ -1,0 +1,1 @@
+[06-Jun-2021 02:52:32 UTC] PHP Fatal error:  Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7

@@ -1,0 +1,2 @@
+[30-May-2021 15:42:01 UTC] PHP Fatal error:  Interface 'Cocur\Slugify\RuleProvider\RuleProviderInterface' not found in /home/pixagency/public_html/store/vendor/cocur/slugify/src/RuleProvider/FileRuleProvider.php on line 21
+[30-May-2021 15:42:42 UTC] PHP Fatal error:  Interface 'Cocur\Slugify\RuleProvider\RuleProviderInterface' not found in /home/pixagency/public_html/store/vendor/cocur/slugify/src/RuleProvider/DefaultRuleProvider.php on line 21

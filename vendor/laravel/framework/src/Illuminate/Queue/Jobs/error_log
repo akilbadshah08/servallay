@@ -1,0 +1,1 @@
+[10-Jun-2021 08:25:53 UTC] PHP Fatal error:  Class 'Illuminate\Queue\Jobs\Job' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Queue/Jobs/BeanstalkdJob.php on line 10

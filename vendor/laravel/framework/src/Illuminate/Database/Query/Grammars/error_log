@@ -1,0 +1,4 @@
+[11-Jun-2021 17:28:35 UTC] PHP Fatal error:  Class 'Illuminate\Database\Grammar' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 12
+[11-Jun-2021 17:35:05 UTC] PHP Fatal error:  Class 'Illuminate\Database\Query\Grammars\Grammar' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 9
+[11-Jun-2021 17:38:15 UTC] PHP Fatal error:  Class 'Illuminate\Database\Query\Grammars\Grammar' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 8
+[11-Jun-2021 17:42:09 UTC] PHP Fatal error:  Class 'Illuminate\Database\Query\Grammars\Grammar' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 8

@@ -1,0 +1,2 @@
+[06-Jun-2021 04:04:39 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/test/PhpParser/Node/Scalar/MagicConstTest.php on line 7
+[06-Jun-2021 04:23:34 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/test/PhpParser/Node/Scalar/StringTest.php on line 7

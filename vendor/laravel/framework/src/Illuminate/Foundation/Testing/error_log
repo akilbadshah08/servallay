@@ -1,0 +1,2 @@
+[08-Jun-2021 01:54:59 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php on line 12
+[08-Jun-2021 02:42:21 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestResponse.php on line 19

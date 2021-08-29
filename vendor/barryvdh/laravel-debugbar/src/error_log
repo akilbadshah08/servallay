@@ -1,0 +1,6 @@
+[28-May-2021 12:31:14 UTC] PHP Fatal error:  Interface 'DebugBar\HttpDriverInterface' not found in /home/pixagency/public_html/store/vendor/barryvdh/laravel-debugbar/src/SymfonyHttpDriver.php on line 12
+[28-May-2021 16:00:02 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/pixagency/public_html/store/vendor/barryvdh/laravel-debugbar/src/Facade.php on line 3
+[28-May-2021 16:07:14 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/barryvdh/laravel-debugbar/src/ServiceProvider.php on line 11
+[28-May-2021 19:00:04 UTC] PHP Fatal error:  Class 'DebugBar\DebugBar' not found in /home/pixagency/public_html/store/vendor/barryvdh/laravel-debugbar/src/LaravelDebugbar.php on line 53
+[28-May-2021 23:40:50 UTC] PHP Fatal error:  Class 'Barryvdh\Debugbar\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/barryvdh/laravel-debugbar/src/LumenServiceProvider.php on line 5
+[29-May-2021 00:16:50 UTC] PHP Fatal error:  Class 'DebugBar\JavascriptRenderer' not found in /home/pixagency/public_html/store/vendor/barryvdh/laravel-debugbar/src/JavascriptRenderer.php on line 10

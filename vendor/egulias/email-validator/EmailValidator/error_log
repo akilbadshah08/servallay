@@ -1,0 +1,1 @@
+[26-May-2021 18:03:43 UTC] PHP Fatal error:  Class 'Doctrine\Common\Lexer\AbstractLexer' not found in /home/pixagency/public_html/store/vendor/egulias/email-validator/EmailValidator/EmailLexer.php on line 7

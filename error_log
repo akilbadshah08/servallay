@@ -1,0 +1,25 @@
+[01-Jul-2021 19:15:17 UTC] PHP Notice:  Undefined index: argv in /home/vxiw4ypsojv6/public_html/danscool.com/store/vendor/symfony/console/Input/ArgvInput.php on line 53
+[01-Jul-2021 19:15:17 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/vxiw4ypsojv6/public_html/danscool.com/store/vendor/symfony/console/Input/ArgvInput.php on line 57
+[01-Jul-2021 19:15:39 UTC] PHP Notice:  Undefined index: argv in /home/vxiw4ypsojv6/public_html/danscool.com/store/vendor/symfony/console/Input/ArgvInput.php on line 53
+[01-Jul-2021 19:15:39 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/vxiw4ypsojv6/public_html/danscool.com/store/vendor/symfony/console/Input/ArgvInput.php on line 57
+[01-Jul-2021 19:27:08 UTC] PHP Notice:  Undefined index: argv in /home/vxiw4ypsojv6/public_html/danscool.com/store/vendor/symfony/console/Input/ArgvInput.php on line 53
+[01-Jul-2021 19:27:08 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/vxiw4ypsojv6/public_html/danscool.com/store/vendor/symfony/console/Input/ArgvInput.php on line 57
+[01-Jul-2021 20:24:53 UTC] PHP Notice:  Undefined index: argv in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/bin/composer on line 60
+[01-Jul-2021 20:24:53 UTC] PHP Notice:  Trying to access array offset on value of type null in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/bin/composer on line 60
+[01-Jul-2021 20:24:53 UTC] PHP Notice:  Undefined index: argv in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 53
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 57
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 283
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 283
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 283
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 283
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 283
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 283
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 306
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 283
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 283
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 306
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 283
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 283
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 283
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 306
+[01-Jul-2021 20:24:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in phar:///home/vxiw4ypsojv6/public_html/danscool.com/store/composer.phar/vendor/symfony/console/Input/ArgvInput.php on line 283

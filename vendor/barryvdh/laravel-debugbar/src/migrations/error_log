@@ -1,0 +1,1 @@
+[04-Jun-2021 16:15:09 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/pixagency/public_html/store/vendor/barryvdh/laravel-debugbar/src/migrations/2014_12_01_120000_create_phpdebugbar_storage_table.php on line 6

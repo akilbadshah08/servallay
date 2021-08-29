@@ -1,0 +1,4 @@
+[06-Jun-2021 13:35:47 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Broadcasting/BroadcastServiceProvider.php on line 9
+[07-Jun-2021 08:19:16 UTC] PHP Fatal error:  Class 'Illuminate\Broadcasting\Channel' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Broadcasting/PresenceChannel.php on line 5
+[07-Jun-2021 08:28:44 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Broadcasting\Factory' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Broadcasting/BroadcastManager.php on line 19
+[09-Jun-2021 04:07:10 UTC] PHP Fatal error:  Class 'Illuminate\Broadcasting\Channel' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Broadcasting/PrivateChannel.php on line 5

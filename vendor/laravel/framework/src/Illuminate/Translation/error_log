@@ -1,0 +1,1 @@
+[06-Jun-2021 22:32:18 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Translation\Loader' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php on line 9

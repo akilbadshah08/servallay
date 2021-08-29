@@ -1,0 +1,3 @@
+[05-Jun-2021 03:19:01 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Application' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 22
+[05-Jun-2021 03:20:51 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Style\SymfonyStyle' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 9
+[05-Jun-2021 09:55:44 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 9

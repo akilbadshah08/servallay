@@ -1,0 +1,2 @@
+[01-Jun-2021 00:56:33 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/sebastian/diff/tests/Utils/UnifiedDiffAssertTraitTest.php on line 18
+[01-Jun-2021 04:39:14 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/sebastian/diff/tests/Utils/UnifiedDiffAssertTraitIntegrationTest.php on line 21

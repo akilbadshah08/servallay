@@ -1,0 +1,1 @@
+[09-Jun-2021 04:45:03 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Redis\Factory' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php on line 11

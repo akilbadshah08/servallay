@@ -1,0 +1,2 @@
+[21-May-2021 08:17:51 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/pixagency/public_html/store/tests/TestCase.php on line 7
+[21-May-2021 08:21:04 UTC] PHP Fatal error:  Class 'Laravel\Dusk\TestCase' not found in /home/pixagency/public_html/store/tests/DuskTestCase.php on line 10

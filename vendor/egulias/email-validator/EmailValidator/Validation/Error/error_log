@@ -1,0 +1,2 @@
+[31-May-2021 04:58:50 UTC] PHP Fatal error:  Class 'Egulias\EmailValidator\Exception\InvalidEmail' not found in /home/pixagency/public_html/store/vendor/egulias/email-validator/EmailValidator/Validation/Error/RFCWarnings.php on line 7
+[31-May-2021 06:23:56 UTC] PHP Fatal error:  Class 'Egulias\EmailValidator\Exception\InvalidEmail' not found in /home/pixagency/public_html/store/vendor/egulias/email-validator/EmailValidator/Validation/Error/SpoofEmail.php on line 7

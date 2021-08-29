@@ -1,0 +1,9 @@
+[05-Jun-2021 16:23:52 UTC] PHP Fatal error:  Class 'PhpParser\Builder\FunctionLike' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 10
+[05-Jun-2021 16:42:48 UTC] PHP Fatal error:  Interface 'PhpParser\Builder' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[05-Jun-2021 17:01:44 UTC] PHP Fatal error:  Interface 'PhpParser\Builder' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[05-Jun-2021 17:39:36 UTC] PHP Fatal error:  Class 'PhpParser\Builder\FunctionLike' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php on line 10
+[05-Jun-2021 18:36:24 UTC] PHP Fatal error:  Class 'PhpParser\Builder\Declaration' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[05-Jun-2021 18:45:52 UTC] PHP Fatal error:  Interface 'PhpParser\Builder' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 9
+[05-Jun-2021 18:55:20 UTC] PHP Fatal error:  Class 'PhpParser\Builder\Declaration' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[05-Jun-2021 19:33:12 UTC] PHP Fatal error:  Class 'PhpParser\Builder\Declaration' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 10
+[05-Jun-2021 19:52:08 UTC] PHP Fatal error:  Interface 'PhpParser\Builder' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 9

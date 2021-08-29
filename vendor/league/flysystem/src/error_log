@@ -1,0 +1,7 @@
+[01-Jun-2021 00:48:57 UTC] PHP Fatal error:  Trait 'League\Flysystem\Plugin\PluggableTrait' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Filesystem.php on line 20
+[01-Jun-2021 00:49:26 UTC] PHP Fatal error:  Class 'League\Flysystem\Exception' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/FileNotFoundException.php on line 7
+[01-Jun-2021 00:54:50 UTC] PHP Fatal error:  Class 'League\Flysystem\Exception' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/FileExistsException.php on line 7
+[01-Jun-2021 06:51:47 UTC] PHP Fatal error:  Class 'League\Flysystem\Exception' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/UnreadableFileException.php on line 7
+[01-Jun-2021 09:05:41 UTC] PHP Fatal error:  Class 'League\Flysystem\Handler' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/File.php on line 8
+[02-Jun-2021 01:41:31 UTC] PHP Fatal error:  Trait 'League\Flysystem\Plugin\PluggableTrait' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/MountManager.php on line 48
+[02-Jun-2021 03:03:33 UTC] PHP Fatal error:  Interface 'League\Flysystem\ReadInterface' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/AdapterInterface.php on line 5

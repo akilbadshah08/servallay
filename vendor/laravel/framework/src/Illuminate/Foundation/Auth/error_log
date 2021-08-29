@@ -1,0 +1,4 @@
+[06-Jun-2021 18:16:41 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Auth\RedirectsUsers' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php on line 11
+[06-Jun-2021 19:51:22 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Auth\RedirectsUsers' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php on line 14
+[06-Jun-2021 20:03:54 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Auth\RedirectsUsers' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php on line 11
+[06-Jun-2021 21:16:34 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php on line 13

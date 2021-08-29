@@ -1,0 +1,1 @@
+[07-Jun-2021 16:50:32 UTC] PHP Fatal error:  Interface 'PHPUnit\Framework\MockObject\Invocation' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/MockObject/Invocation/StaticInvocation.php on line 21

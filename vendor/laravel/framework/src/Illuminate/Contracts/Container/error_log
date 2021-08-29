@@ -1,0 +1,2 @@
+[11-Jun-2021 16:49:13 UTC] PHP Fatal error:  Interface 'Psr\Container\ContainerInterface' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php on line 8
+[11-Jun-2021 17:11:57 UTC] PHP Fatal error:  Interface 'Psr\Container\ContainerExceptionInterface' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Contracts/Container/BindingResolutionException.php on line 8

@@ -1,0 +1,8 @@
+[03-Jun-2021 13:17:52 UTC] PHP Fatal error:  Class 'League\Flysystem\Adapter\Ftpd' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Adapter/SynologyFtp.php on line 5
+[03-Jun-2021 13:55:44 UTC] PHP Fatal error:  Interface 'League\Flysystem\AdapterInterface' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Adapter/AbstractAdapter.php on line 7
+[03-Jun-2021 15:49:20 UTC] PHP Fatal error:  Class 'League\Flysystem\Adapter\AbstractAdapter' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Adapter/Local.php on line 19
+[03-Jun-2021 17:52:26 UTC] PHP Fatal error:  Class 'League\Flysystem\Adapter\Ftp' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Adapter/Ftpd.php on line 5
+[03-Jun-2021 18:58:40 UTC] PHP Fatal error:  Class 'League\Flysystem\Adapter\AbstractFtpAdapter' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Adapter/Ftp.php on line 13
+[03-Jun-2021 19:16:45 UTC] PHP Fatal error:  Class 'League\Flysystem\Adapter\AbstractFtpAdapter' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Adapter/Ftp.php on line 13
+[03-Jun-2021 19:18:58 UTC] PHP Fatal error:  Class 'League\Flysystem\Adapter\AbstractAdapter' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Adapter/NullAdapter.php on line 9
+[03-Jun-2021 19:53:44 UTC] PHP Fatal error:  Class 'League\Flysystem\Adapter\AbstractAdapter' not found in /home/pixagency/public_html/store/vendor/league/flysystem/src/Adapter/AbstractFtpAdapter.php on line 12

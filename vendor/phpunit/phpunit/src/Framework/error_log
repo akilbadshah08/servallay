@@ -1,0 +1,17 @@
+[30-May-2021 16:07:15 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\Assert' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/TestCase.php on line 56
+[31-May-2021 17:06:03 UTC] PHP Fatal error:  Interface 'PHPUnit\Exception' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/Exception.php on line 34
+[02-Jun-2021 06:45:01 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\Exception' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/Warning.php on line 15
+[02-Jun-2021 08:06:29 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\AssertionFailedError' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/SyntheticError.php on line 15
+[02-Jun-2021 14:53:34 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\AssertionFailedError' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/IncompleteTestError.php on line 12
+[02-Jun-2021 17:15:34 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\AssertionFailedError' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/OutputError.php on line 12
+[02-Jun-2021 22:27:58 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\AssertionFailedError' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/RiskyTestError.php on line 12
+[03-Jun-2021 21:18:56 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestSuite' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/DataProviderTestSuite.php on line 12
+[03-Jun-2021 21:28:23 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\RiskyTestError' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/UnintentionallyCoveredCodeError.php on line 16
+[04-Jun-2021 09:18:36 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/IncompleteTestCase.php on line 15
+[04-Jun-2021 09:37:32 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/WarningTestCase.php on line 15
+[04-Jun-2021 11:40:37 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\CodeCoverageException' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/InvalidCoversTargetException.php on line 12
+[04-Jun-2021 14:12:05 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\Exception' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/AssertionFailedError.php on line 15
+[04-Jun-2021 14:59:25 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/SkippedTestCase.php on line 15
+[06-Jun-2021 14:29:28 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\AssertionFailedError' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/SkippedTestError.php on line 12
+[06-Jun-2021 15:01:09 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\RiskyTestError' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/CoveredCodeNotExecutedException.php on line 12
+[06-Jun-2021 15:26:16 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\Exception' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/ExceptionWrapper.php on line 24

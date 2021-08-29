@@ -1,0 +1,1 @@
+[05-Jun-2021 03:23:14 UTC] PHP Fatal error:  Class 'Twig_Node' not found in /home/pixagency/public_html/store/vendor/barryvdh/laravel-debugbar/src/Twig/Node/StopwatchNode.php on line 8

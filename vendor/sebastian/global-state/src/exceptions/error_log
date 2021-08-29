@@ -1,0 +1,1 @@
+[04-Jun-2021 11:02:45 UTC] PHP Fatal error:  Interface 'SebastianBergmann\GlobalState\Exception' not found in /home/pixagency/public_html/store/vendor/sebastian/global-state/src/exceptions/RuntimeException.php on line 15

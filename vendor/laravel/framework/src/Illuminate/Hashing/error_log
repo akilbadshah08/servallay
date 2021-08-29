@@ -1,0 +1,4 @@
+[05-Jun-2021 03:18:30 UTC] PHP Fatal error:  Class 'Illuminate\Support\Manager' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php on line 8
+[05-Jun-2021 03:22:04 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 7
+[05-Jun-2021 03:23:40 UTC] PHP Fatal error:  Class 'Illuminate\Hashing\AbstractHasher' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php on line 8
+[05-Jun-2021 05:30:40 UTC] PHP Fatal error:  Class 'Illuminate\Hashing\AbstractHasher' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 8

@@ -1,0 +1,4 @@
+[02-Jun-2021 09:31:41 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/tests/Framework/MockObject/MockObjectTest.php on line 15
+[02-Jun-2021 09:41:09 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/tests/Framework/MockObject/ProxyObjectTest.php on line 13
+[02-Jun-2021 10:00:05 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/tests/Framework/MockObject/MockBuilderTest.php on line 14
+[02-Jun-2021 10:56:53 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/tests/Framework/MockObject/GeneratorTest.php on line 28

@@ -1,0 +1,1 @@
+[06-Jun-2021 07:51:50 UTC] PHP Fatal error:  Interface 'SebastianBergmann\CodeCoverage\Driver\Driver' not found in /home/pixagency/public_html/store/vendor/phpunit/php-code-coverage/src/Driver/PHPDBG.php on line 20

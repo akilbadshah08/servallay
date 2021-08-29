@@ -1,0 +1,17 @@
+[02-Jun-2021 07:38:05 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Compound.php on line 26
+[02-Jun-2021 07:57:01 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Object_.php on line 25
+[02-Jun-2021 08:29:07 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Iterable_.php on line 20
+[02-Jun-2021 19:18:38 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Scalar.php on line 20
+[02-Jun-2021 21:31:09 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Callable_.php on line 20
+[03-Jun-2021 21:37:53 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Array_.php on line 26
+[04-Jun-2021 09:56:28 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/This.php on line 23
+[04-Jun-2021 10:24:52 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Parent_.php on line 22
+[04-Jun-2021 10:35:20 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Void_.php on line 23
+[04-Jun-2021 10:53:17 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Resource_.php on line 20
+[04-Jun-2021 11:50:05 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Self_.php on line 22
+[04-Jun-2021 16:25:16 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Boolean.php on line 20
+[04-Jun-2021 17:49:49 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Static_.php on line 27
+[04-Jun-2021 18:18:13 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Nullable.php on line 20
+[06-Jun-2021 09:26:32 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Float_.php on line 20
+[06-Jun-2021 15:35:44 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Null_.php on line 20
+[06-Jun-2021 16:45:07 UTC] PHP Fatal error:  Interface 'phpDocumentor\Reflection\Type' not found in /home/pixagency/public_html/store/vendor/phpdocumentor/type-resolver/src/Types/Integer.php on line 17

@@ -1,0 +1,2 @@
+[28-May-2021 07:56:30 UTC] PHP Fatal error:  Class 'Laravel\Dusk\Page' not found in /home/pixagency/public_html/store/tests/Browser/Pages/Page.php on line 7
+[28-May-2021 08:55:16 UTC] PHP Fatal error:  Class 'Tests\Browser\Pages\Page' not found in /home/pixagency/public_html/store/tests/Browser/Pages/HomePage.php on line 7

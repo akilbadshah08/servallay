@@ -1,0 +1,11 @@
+[06-Jun-2021 08:20:14 UTC] PHP Fatal error:  Trait 'Illuminate\Support\InteractsWithTime' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Queue/Queue.php on line 11
+[07-Jun-2021 06:16:11 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\Factory' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php on line 13
+[07-Jun-2021 06:35:07 UTC] PHP Fatal error:  Class 'Illuminate\Queue\Queue' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Queue/DatabaseQueue.php on line 11
+[07-Jun-2021 14:19:00 UTC] PHP Fatal error:  Class 'Illuminate\Queue\Queue' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Queue/BeanstalkdQueue.php on line 10
+[08-Jun-2021 19:05:03 UTC] PHP Fatal error:  Class 'Illuminate\Queue\Queue' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Queue/NullQueue.php on line 7
+[08-Jun-2021 20:42:10 UTC] PHP Fatal error:  Class 'Illuminate\Queue\Queue' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Queue/SqsQueue.php on line 9
+[09-Jun-2021 05:13:28 UTC] PHP Fatal error:  Class 'Illuminate\Queue\Queue' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Queue/RedisQueue.php on line 10
+[09-Jun-2021 17:03:49 UTC] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesAndRestoresModelIdentifiers' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Queue/SerializesModels.php on line 10
+[10-Jun-2021 06:28:37 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Queue/QueueServiceProvider.php on line 16
+[10-Jun-2021 07:34:53 UTC] PHP Fatal error:  Class 'Illuminate\Queue\WorkerOptions' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Queue/ListenerOptions.php on line 5
+[10-Jun-2021 15:03:24 UTC] PHP Fatal error:  Class 'Illuminate\Queue\Queue' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Queue/SyncQueue.php on line 12

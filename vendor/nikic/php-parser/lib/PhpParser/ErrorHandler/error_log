@@ -1,0 +1,2 @@
+[05-Jun-2021 15:46:00 UTC] PHP Fatal error:  Interface 'PhpParser\ErrorHandler' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[05-Jun-2021 19:14:16 UTC] PHP Fatal error:  Interface 'PhpParser\ErrorHandler' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13

@@ -1,0 +1,1 @@
+[04-Jun-2021 18:37:09 UTC] PHP Fatal error:  Interface 'Whoops\RunInterface' not found in /home/pixagency/public_html/store/vendor/filp/whoops/src/Whoops/Run.php on line 18

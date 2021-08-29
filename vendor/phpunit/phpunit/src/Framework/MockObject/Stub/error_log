@@ -1,0 +1,7 @@
+[07-Jun-2021 15:24:43 UTC] PHP Fatal error:  Interface 'PHPUnit\Framework\MockObject\Stub' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[07-Jun-2021 15:53:44 UTC] PHP Fatal error:  Interface 'PHPUnit\Framework\MockObject\Stub' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[07-Jun-2021 17:52:07 UTC] PHP Fatal error:  Interface 'PHPUnit\Framework\MockObject\Stub' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 19
+[07-Jun-2021 21:01:28 UTC] PHP Fatal error:  Interface 'PHPUnit\Framework\MockObject\Stub' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 15
+[07-Jun-2021 21:10:56 UTC] PHP Fatal error:  Interface 'PHPUnit\Framework\MockObject\Stub' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 19
+[07-Jun-2021 21:29:51 UTC] PHP Fatal error:  Interface 'PHPUnit\Framework\MockObject\Stub' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 18
+[07-Jun-2021 21:48:48 UTC] PHP Fatal error:  Interface 'PHPUnit\Framework\MockObject\Stub' not found in /home/pixagency/public_html/store/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19

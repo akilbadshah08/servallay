@@ -1,0 +1,1 @@
+[09-Jun-2021 03:38:45 UTC] PHP Fatal error:  Class 'Zend\View\Helper\AbstractHelper' not found in /home/pixagency/public_html/store/vendor/cocur/slugify/src/Bridge/ZF2/SlugifyViewHelper.php on line 14

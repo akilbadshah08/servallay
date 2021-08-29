@@ -1,0 +1,6 @@
+[09-Jun-2021 23:03:35 UTC] PHP Fatal error:  Interface 'Swift_Transport' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Mail/Transport/Transport.php on line 10
+[10-Jun-2021 02:22:25 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Transport\Transport' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Mail/Transport/ArrayTransport.php on line 8
+[10-Jun-2021 02:31:53 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Transport\Transport' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Mail/Transport/LogTransport.php on line 9
+[10-Jun-2021 15:18:51 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Transport\Transport' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Mail/Transport/MailgunTransport.php on line 8
+[10-Jun-2021 17:02:59 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Transport\Transport' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Mail/Transport/SparkPostTransport.php on line 8
+[10-Jun-2021 22:53:17 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Transport\Transport' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Mail/Transport/SesTransport.php on line 8

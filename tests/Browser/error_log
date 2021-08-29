@@ -1,0 +1,4 @@
+[26-May-2021 15:46:33 UTC] PHP Fatal error:  Class 'Tests\DuskTestCase' not found in /home/pixagency/public_html/store/tests/Browser/CategoryTest.php on line 8
+[26-May-2021 15:46:47 UTC] PHP Fatal error:  Class 'Tests\DuskTestCase' not found in /home/pixagency/public_html/store/tests/Browser/ProductTest.php on line 8
+[26-May-2021 16:52:20 UTC] PHP Fatal error:  Class 'Tests\DuskTestCase' not found in /home/pixagency/public_html/store/tests/Browser/RoutesTest.php on line 8
+[26-May-2021 17:45:05 UTC] PHP Fatal error:  Class 'Tests\DuskTestCase' not found in /home/pixagency/public_html/store/tests/Browser/AuthTest.php on line 8

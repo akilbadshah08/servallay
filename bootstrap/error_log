@@ -1,0 +1,8 @@
+[26-May-2021 16:21:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/pixagency/public_html/store/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/bootstrap/app.php on line 14
+[12-Jun-2021 10:05:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/pixagency/public_html/store/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/bootstrap/app.php on line 14

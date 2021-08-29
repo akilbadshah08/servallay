@@ -1,0 +1,1 @@
+[10-Jun-2021 10:53:43 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9

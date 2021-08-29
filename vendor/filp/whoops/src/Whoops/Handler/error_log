@@ -1,0 +1,6 @@
+[04-Jun-2021 12:56:21 UTC] PHP Fatal error:  Class 'Whoops\Handler\Handler' not found in /home/pixagency/public_html/store/vendor/filp/whoops/src/Whoops/Handler/JsonResponseHandler.php on line 16
+[06-Jun-2021 00:55:43 UTC] PHP Fatal error:  Class 'Whoops\Handler\Handler' not found in /home/pixagency/public_html/store/vendor/filp/whoops/src/Whoops/Handler/PlainTextHandler.php on line 20
+[06-Jun-2021 10:32:47 UTC] PHP Fatal error:  Class 'Whoops\Handler\Handler' not found in /home/pixagency/public_html/store/vendor/filp/whoops/src/Whoops/Handler/XmlResponseHandler.php on line 17
+[06-Jun-2021 12:54:49 UTC] PHP Fatal error:  Class 'Whoops\Handler\Handler' not found in /home/pixagency/public_html/store/vendor/filp/whoops/src/Whoops/Handler/CallbackHandler.php on line 16
+[10-Jun-2021 08:31:42 UTC] PHP Fatal error:  Interface 'Whoops\Handler\HandlerInterface' not found in /home/pixagency/public_html/store/vendor/filp/whoops/src/Whoops/Handler/Handler.php on line 15
+[10-Jun-2021 09:56:55 UTC] PHP Fatal error:  Class 'Whoops\Handler\Handler' not found in /home/pixagency/public_html/store/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php on line 18

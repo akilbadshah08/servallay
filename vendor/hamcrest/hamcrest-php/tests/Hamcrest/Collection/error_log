@@ -1,0 +1,1 @@
+[30-May-2021 15:43:06 UTC] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Collection/IsEmptyTraversableTest.php on line 6

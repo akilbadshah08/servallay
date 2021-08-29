@@ -1,0 +1,48 @@
+[12-Jun-2021 10:07:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pixagency/public_html/store/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/config/app.php on line 16
+[12-Jun-2021 10:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pixagency/public_html/store/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/config/broadcasting.php on line 18
+[12-Jun-2021 10:08:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pixagency/public_html/store/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/config/cache.php on line 18
+[12-Jun-2021 10:09:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pixagency/public_html/store/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/config/database.php on line 16
+[12-Jun-2021 10:09:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pixagency/public_html/store/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/config/filesystems.php on line 16
+[12-Jun-2021 10:10:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pixagency/public_html/store/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/config/hashing.php on line 32
+[12-Jun-2021 10:10:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pixagency/public_html/store/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/config/logging.php on line 18
+[12-Jun-2021 10:10:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pixagency/public_html/store/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/config/mail.php on line 19
+[12-Jun-2021 10:11:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pixagency/public_html/store/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/config/queue.php on line 16
+[12-Jun-2021 10:11:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pixagency/public_html/store/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/config/services.php on line 18
+[12-Jun-2021 10:11:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/pixagency/public_html/store/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/config/session.php on line 19
+[12-Jun-2021 10:12:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/pixagency/public_html/store/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/store/config/view.php on line 17

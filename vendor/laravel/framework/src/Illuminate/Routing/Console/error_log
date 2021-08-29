@@ -1,0 +1,1 @@
+[06-Jun-2021 19:22:58 UTC] PHP Fatal error:  Class 'Illuminate\Console\GeneratorCommand' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 10

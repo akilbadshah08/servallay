@@ -1,0 +1,1 @@
+[09-Jun-2021 20:51:02 UTC] PHP Fatal error:  Class 'Twig_Extension' not found in /home/pixagency/public_html/store/vendor/barryvdh/laravel-debugbar/src/Twig/Extension/Stopwatch.php on line 11

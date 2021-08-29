@@ -1,0 +1,2 @@
+[07-Jun-2021 10:22:20 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/pixagency/public_html/store/vendor/cviebrock/eloquent-sluggable/tests/database/migrations/2013_11_04_163552_posts.php on line 10
+[10-Jun-2021 07:44:21 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/pixagency/public_html/store/vendor/cviebrock/eloquent-sluggable/tests/database/migrations/2015_08_17_185144_authors.php on line 10

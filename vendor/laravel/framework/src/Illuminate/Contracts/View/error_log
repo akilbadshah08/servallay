@@ -1,0 +1,1 @@
+[09-Jun-2021 15:22:48 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Support\Renderable' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 7

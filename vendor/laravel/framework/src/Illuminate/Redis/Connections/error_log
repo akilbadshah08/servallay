@@ -1,0 +1,1 @@
+[11-Jun-2021 16:45:54 UTC] PHP Fatal error:  Class 'Illuminate\Redis\Connections\PhpRedisConnection' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php on line 5

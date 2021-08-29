@@ -1,0 +1,1 @@
+[07-Jun-2021 05:47:47 UTC] PHP Fatal error:  Class 'League\Container\ServiceProvider\AbstractServiceProvider' not found in /home/pixagency/public_html/store/vendor/cocur/slugify/src/Bridge/League/SlugifyServiceProvider.php on line 11

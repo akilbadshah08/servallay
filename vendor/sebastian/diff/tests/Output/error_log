@@ -1,0 +1,3 @@
+[04-Jun-2021 11:59:33 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/sebastian/diff/tests/Output/AbstractChunkOutputBuilderTest.php on line 23
+[04-Jun-2021 14:31:01 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/sebastian/diff/tests/Output/StrictUnifiedDiffOutputBuilderTest.php on line 23
+[06-Jun-2021 15:57:56 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/sebastian/diff/tests/Output/DiffOnlyOutputBuilderTest.php on line 22

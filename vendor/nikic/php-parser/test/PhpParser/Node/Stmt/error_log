@@ -1,0 +1,2 @@
+[04-Jun-2021 05:21:56 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/test/PhpParser/Node/Stmt/ClassTest.php on line 7
+[06-Jun-2021 03:45:44 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/pixagency/public_html/store/vendor/nikic/php-parser/test/PhpParser/Node/Stmt/ClassConstTest.php on line 7

@@ -1,0 +1,4 @@
+[29-May-2021 01:21:38 UTC] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\RuntimeException' not found in /home/pixagency/public_html/store/vendor/phpunit/php-code-coverage/src/Exception/MissingCoversAnnotationException.php on line 16
+[30-May-2021 15:25:05 UTC] PHP Fatal error:  Interface 'SebastianBergmann\CodeCoverage\Exception' not found in /home/pixagency/public_html/store/vendor/phpunit/php-code-coverage/src/Exception/RuntimeException.php on line 13
+[30-May-2021 15:34:10 UTC] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\RuntimeException' not found in /home/pixagency/public_html/store/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 16
+[30-May-2021 15:43:40 UTC] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\RuntimeException' not found in /home/pixagency/public_html/store/vendor/phpunit/php-code-coverage/src/Exception/CoveredCodeNotExecutedException.php on line 16

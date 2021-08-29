@@ -1,0 +1,1 @@
+[30-May-2021 16:07:19 UTC] PHP Fatal error:  Interface 'Whoops\Handler\HandlerInterface' not found in /home/pixagency/public_html/store/vendor/nunomaduro/collision/src/Contracts/Handler.php on line 22

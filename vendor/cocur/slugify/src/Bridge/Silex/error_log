@@ -1,0 +1,1 @@
+[06-Jun-2021 10:04:33 UTC] PHP Fatal error:  Interface 'Silex\ServiceProviderInterface' not found in /home/pixagency/public_html/store/vendor/cocur/slugify/src/Bridge/Silex/SlugifyServiceProvider.php on line 28

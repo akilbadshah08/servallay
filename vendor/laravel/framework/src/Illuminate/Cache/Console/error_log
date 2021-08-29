@@ -1,0 +1,3 @@
+[06-Jun-2021 02:29:57 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php on line 9
+[07-Jun-2021 15:31:55 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php on line 11
+[07-Jun-2021 15:38:01 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Cache/Console/ForgetCommand.php on line 8

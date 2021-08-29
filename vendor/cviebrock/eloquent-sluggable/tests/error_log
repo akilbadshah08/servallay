@@ -1,0 +1,8 @@
+[30-May-2021 22:14:26 UTC] PHP Fatal error:  Class 'Cviebrock\EloquentSluggable\Tests\TestCase' not found in /home/pixagency/public_html/store/vendor/cviebrock/eloquent-sluggable/tests/ScopeHelperTests.php on line 12
+[02-Jun-2021 01:47:49 UTC] PHP Fatal error:  Class 'Cviebrock\EloquentSluggable\Tests\TestCase' not found in /home/pixagency/public_html/store/vendor/cviebrock/eloquent-sluggable/tests/OnUpdateTests.php on line 11
+[02-Jun-2021 01:57:17 UTC] PHP Fatal error:  Class 'Cviebrock\EloquentSluggable\Tests\TestCase' not found in /home/pixagency/public_html/store/vendor/cviebrock/eloquent-sluggable/tests/UniqueTests.php on line 12
+[02-Jun-2021 02:16:13 UTC] PHP Fatal error:  Class 'Cviebrock\EloquentSluggable\Tests\TestCase' not found in /home/pixagency/public_html/store/vendor/cviebrock/eloquent-sluggable/tests/BaseTests.php on line 27
+[02-Jun-2021 02:35:23 UTC] PHP Fatal error:  Class 'Cviebrock\EloquentSluggable\Tests\TestCase' not found in /home/pixagency/public_html/store/vendor/cviebrock/eloquent-sluggable/tests/SoftDeleteTests.php on line 12
+[02-Jun-2021 03:13:01 UTC] PHP Fatal error:  Class 'Cviebrock\EloquentSluggable\Tests\TestCase' not found in /home/pixagency/public_html/store/vendor/cviebrock/eloquent-sluggable/tests/StaticTests.php on line 11
+[02-Jun-2021 04:09:49 UTC] PHP Fatal error:  Class 'Orchestra\Testbench\TestCase' not found in /home/pixagency/public_html/store/vendor/cviebrock/eloquent-sluggable/tests/TestCase.php on line 13
+[03-Jun-2021 12:30:32 UTC] PHP Fatal error:  Class 'Cviebrock\EloquentSluggable\Tests\TestCase' not found in /home/pixagency/public_html/store/vendor/cviebrock/eloquent-sluggable/tests/EventTests.php on line 11

@@ -1,0 +1,2 @@
+[05-Jun-2021 03:09:44 UTC] PHP Fatal error:  Trait 'Illuminate\Validation\Rules\DatabaseRule' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Validation/Rules/Exists.php on line 7
+[05-Jun-2021 04:43:19 UTC] PHP Fatal error:  Trait 'Illuminate\Validation\Rules\DatabaseRule' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Validation/Rules/Unique.php on line 9

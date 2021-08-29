@@ -1,0 +1,6 @@
+[30-May-2021 15:19:11 UTC] PHP Fatal error:  Class 'PhpUnit_Framework_TestCase' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/UtilTest.php on line 4
+[30-May-2021 15:23:19 UTC] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/BaseMatcherTest.php on line 5
+[30-May-2021 15:24:14 UTC] PHP Fatal error:  Interface 'Hamcrest\SelfDescribing' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/StringDescriptionTest.php on line 4
+[30-May-2021 15:27:41 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/AbstractMatcherTest.php on line 7
+[30-May-2021 15:40:11 UTC] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/FeatureMatcherTest.php on line 18
+[30-May-2021 15:40:40 UTC] PHP Fatal error:  Class 'PhpUnit_Framework_TestCase' not found in /home/pixagency/public_html/store/vendor/hamcrest/hamcrest-php/tests/Hamcrest/MatcherAssertTest.php on line 4

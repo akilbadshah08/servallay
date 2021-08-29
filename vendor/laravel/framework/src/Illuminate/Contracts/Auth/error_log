@@ -1,0 +1,1 @@
+[11-Jun-2021 17:15:04 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Guard' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 5

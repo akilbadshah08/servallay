@@ -1,0 +1,4 @@
+[06-Jun-2021 12:07:28 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Filesystem\Filesystem' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php on line 28
+[06-Jun-2021 12:26:24 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Filesystem\Factory' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 25
+[07-Jun-2021 11:00:12 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 13
+[09-Jun-2021 05:32:24 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7

@@ -1,0 +1,2 @@
+[03-Jun-2021 01:18:24 UTC] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\Node\AbstractNode' not found in /home/pixagency/public_html/store/vendor/phpunit/php-code-coverage/src/Node/File.php on line 16
+[03-Jun-2021 04:08:48 UTC] PHP Fatal error:  Class 'SebastianBergmann\CodeCoverage\Node\AbstractNode' not found in /home/pixagency/public_html/store/vendor/phpunit/php-code-coverage/src/Node/Directory.php on line 18

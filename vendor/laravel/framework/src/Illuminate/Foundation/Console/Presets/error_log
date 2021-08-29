@@ -1,0 +1,3 @@
+[07-Jun-2021 17:00:00 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Presets\Preset' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Foundation/Console/Presets/None.php on line 7
+[07-Jun-2021 18:20:32 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Presets\Preset' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Foundation/Console/Presets/Vue.php on line 8
+[07-Jun-2021 21:20:24 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Presets\Preset' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Foundation/Console/Presets/React.php on line 8

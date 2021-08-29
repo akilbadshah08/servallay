@@ -1,0 +1,1 @@
+[10-Jun-2021 12:00:00 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\CapsuleManagerTrait' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Queue/Capsule/Manager.php on line 16

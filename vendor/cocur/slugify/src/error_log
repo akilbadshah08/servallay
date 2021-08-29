@@ -1,0 +1,1 @@
+[30-May-2021 15:40:23 UTC] PHP Fatal error:  Interface 'Cocur\Slugify\SlugifyInterface' not found in /home/pixagency/public_html/store/vendor/cocur/slugify/src/Slugify.php on line 27

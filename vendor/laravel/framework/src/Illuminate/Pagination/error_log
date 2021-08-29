@@ -1,0 +1,4 @@
+[05-Jun-2021 08:30:32 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Support\Htmlable' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Pagination/AbstractPaginator.php on line 13
+[05-Jun-2021 09:08:24 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Pagination/PaginationServiceProvider.php on line 7
+[05-Jun-2021 10:05:12 UTC] PHP Fatal error:  Class 'Illuminate\Pagination\AbstractPaginator' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Pagination/Paginator.php on line 15
+[05-Jun-2021 16:33:20 UTC] PHP Fatal error:  Class 'Illuminate\Pagination\AbstractPaginator' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php on line 15

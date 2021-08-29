@@ -1,0 +1,1 @@
+[10-Jun-2021 21:56:29 UTC] PHP Fatal error:  Class 'Illuminate\Http\UploadedFile' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 7

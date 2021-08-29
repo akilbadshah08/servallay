@@ -1,0 +1,2 @@
+[06-Jun-2021 11:58:00 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Mail/MailServiceProvider.php on line 11
+[07-Jun-2021 02:00:35 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Localizable' not found in /home/pixagency/public_html/store/vendor/laravel/framework/src/Illuminate/Mail/Mailable.php on line 22

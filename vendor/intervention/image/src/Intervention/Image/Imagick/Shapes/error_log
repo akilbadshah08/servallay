@@ -1,0 +1,4 @@
+[01-Jun-2021 17:46:17 UTC] PHP Fatal error:  Class 'Intervention\Image\AbstractShape' not found in /home/pixagency/public_html/store/vendor/intervention/image/src/Intervention/Image/Imagick/Shapes/PolygonShape.php on line 8
+[01-Jun-2021 23:06:53 UTC] PHP Fatal error:  Class 'Intervention\Image\AbstractShape' not found in /home/pixagency/public_html/store/vendor/intervention/image/src/Intervention/Image/Imagick/Shapes/EllipseShape.php on line 8
+[01-Jun-2021 23:25:49 UTC] PHP Fatal error:  Class 'Intervention\Image\AbstractShape' not found in /home/pixagency/public_html/store/vendor/intervention/image/src/Intervention/Image/Imagick/Shapes/RectangleShape.php on line 8
+[02-Jun-2021 00:13:09 UTC] PHP Fatal error:  Class 'Intervention\Image\Imagick\Shapes\EllipseShape' not found in /home/pixagency/public_html/store/vendor/intervention/image/src/Intervention/Image/Imagick/Shapes/CircleShape.php on line 7

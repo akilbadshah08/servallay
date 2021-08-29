@@ -1,0 +1,1 @@
+[30-May-2021 15:33:46 UTC] PHP Fatal error:  Interface 'DebugBar\Storage\StorageInterface' not found in /home/pixagency/public_html/store/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 12

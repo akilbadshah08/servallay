@@ -1,0 +1,1 @@
+[01-Jun-2021 03:51:54 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/pixagency/public_html/store/vendor/cviebrock/eloquent-sluggable/src/ServiceProvider.php on line 13

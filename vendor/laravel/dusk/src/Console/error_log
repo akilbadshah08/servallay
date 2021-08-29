@@ -1,0 +1,5 @@
+[30-May-2021 15:22:54 UTC] PHP Fatal error:  Class 'Illuminate\Console\GeneratorCommand' not found in /home/pixagency/public_html/store/vendor/laravel/dusk/src/Console/ComponentCommand.php on line 7
+[30-May-2021 15:30:21 UTC] PHP Fatal error:  Class 'Illuminate\Console\GeneratorCommand' not found in /home/pixagency/public_html/store/vendor/laravel/dusk/src/Console/MakeCommand.php on line 7
+[30-May-2021 15:31:41 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/pixagency/public_html/store/vendor/laravel/dusk/src/Console/DuskCommand.php on line 12
+[30-May-2021 15:33:09 UTC] PHP Fatal error:  Class 'Illuminate\Console\GeneratorCommand' not found in /home/pixagency/public_html/store/vendor/laravel/dusk/src/Console/PageCommand.php on line 7
+[30-May-2021 15:35:10 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/pixagency/public_html/store/vendor/laravel/dusk/src/Console/InstallCommand.php on line 7
