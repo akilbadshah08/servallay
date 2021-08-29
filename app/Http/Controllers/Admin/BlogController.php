@@ -16,13 +16,6 @@ class BlogController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function tp()
-    {
-        //
-        $mdata = Blog::orderBy('id', 'desc')->paginate(5);
-        return view('admin.blogs', compact('mdata'));
-    }
-
     public function index()
     {
         //
