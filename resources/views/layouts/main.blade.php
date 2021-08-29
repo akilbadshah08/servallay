@@ -138,7 +138,7 @@ li.account ul li i {
 
             <ul class="menu_top_nav">
 
-                <li class="menu_item"><a href="{{ route('home') }}">HOMEPAGE</a></li>
+                <li class="menu_item"><a href="{{ url('home') }}">HOMEPAGE</a></li>
 
              
 
