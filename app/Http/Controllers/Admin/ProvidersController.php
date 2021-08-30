@@ -47,7 +47,7 @@ class ProvidersController extends Controller
         	DB::raw('(select image from media where id=providers.logo) as logo_image'),
         	DB::raw('(select name from category where id=providers.category) as category_name'),
         	DB::raw('(select name from category where id=providers.sub_category) as sub_category_name'),
-    ])->orderBy('id', 'desc')->paginate(5);
+    ])->orderBy('id', 'desc')->get();
 
         return view('admin.providers.list', compact('providers'));
 

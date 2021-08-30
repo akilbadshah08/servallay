@@ -43,7 +43,7 @@ class CategoryController extends Controller
         //
 
 
-        $categories = Category::orderBy('id', 'desc')->paginate(5);
+        $categories = Category::orderBy('id', 'desc')->get();
 
         return view('admin.category', compact('categories'));
 
@@ -101,8 +101,11 @@ class CategoryController extends Controller
         ]);
 
 
-
-        $input = $request->only('name', 'parent_id');
+        if(!isset($_GET['child'])){
+            $input = $request->only('name', 'parent_id');
+        } else{
+            $input = $request->only('name');
+        }
 
         if ($files = $request->file("img")) {
 
@@ -221,7 +224,11 @@ class CategoryController extends Controller
 
         $category = Category::find($id);
 
-
+        if(!isset($_POST['parent_id'])){
+            $input = $request->only('name', 'parent_id');
+        } else{
+            $input = $request->only('name');
+        }
         $input = $request->only('name', 'parent_id');
 
         if ($files = $request->file("img")) {

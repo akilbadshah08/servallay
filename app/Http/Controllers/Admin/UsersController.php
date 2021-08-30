@@ -40,7 +40,7 @@ class UsersController extends Controller
 
        // $categoryMenu = Category::orderBy('category_name','asc')->get();
 
-        $users = User::orderBy('id','desc')->paginate(5);
+        $users = User::orderBy('id','desc')->get();
         return view('admin.users', compact('users'));
 
     }

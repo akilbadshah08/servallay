@@ -82,7 +82,7 @@ class LoginController extends Controller
 
     if ( $user->isItAuthorized("admin") ) {// do your magic here
 
-        return redirect()->route('admin-users.index');
+        return redirect()->route('admin-dashboard.index');
 
     }
 

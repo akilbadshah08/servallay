@@ -83,6 +83,8 @@ Route::group(["middleware" => ["is_thisAdmin","auth"]],function (){
 
     Route::group(["namespace" => "Admin"], function (){
 
+        Route::resource("admin-dashboard","DashboardController");
+
         Route::resource("admin-users","UsersController");
 
         Route::resource("admin-category","CategoryController");
