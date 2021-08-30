@@ -102,6 +102,9 @@
                 'img[]': {
                     required: true
                 },
+                'parent_id': {
+                    required: true
+                }
             },
 
         });

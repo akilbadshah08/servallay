@@ -42,7 +42,7 @@
                 <?php echo Form::bsText("name","Category Name"); ?>
 
 
-                <?php if(isset($category->parent_id) ): ?>
+                <?php if(isset($category->parent_id) && $category->parent_id!='0'): ?>
                     <?php echo Form::bsSelect("parent_id","parent",null,$categories,"Please select a category"); ?>
 
                 <?php endif; ?>
