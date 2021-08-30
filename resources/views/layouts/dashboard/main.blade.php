@@ -471,6 +471,7 @@
     <script src="{{ asset('../') }}/assets/js/plugins/bootstrap.min.js"></script>
     <script src="{{ asset('../') }}/assets/js/plugins/feather.min.js"></script>
     <script src="{{ asset('../') }}/assets/js/pcoded.min.js"></script>
+    <script src="{{ asset('../') }}/assets/js/plugins/sweetalert2.all.min.js"></script>
     <!-- <script src="{{ asset('../') }}/https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script> -->
     <!-- <script src="{{ asset('../') }}/assets/js/plugins/clipboard.min.js"></script> -->
     <!-- <script src="{{ asset('../') }}/assets/js/uikit.min.js"></script> -->

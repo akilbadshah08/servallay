@@ -138,8 +138,8 @@ class CategoryController extends Controller
         Session::flash("status", 1);
 
 
-
-        return redirect()->route('admin-category.index');
+        $success="Added";
+        return view("admin.category.create", compact('success'));
 
     }
 
@@ -261,7 +261,8 @@ class CategoryController extends Controller
 
         Session::flash("status", 1);
 
-        return redirect()->route('admin-category.index');
+        $success="Updated";
+        return view("admin.category.create", compact('success'));
 
     }
 

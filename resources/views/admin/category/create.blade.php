@@ -79,6 +79,15 @@
     $(function() {
         // [ Add phone validator ]
 
+        @if(isset($success))
+         Swal.fire({
+            icon: "success",
+            title: 'Category '+'{{ $success }}'+' Successfully',
+        }).then(function(result){
+            window.location.href='{{  url("admin-category") }}'
+        })
+        @endif
+
         // [ Initialize validation ]
         $('#validation-form123').validate({
             ignore: '.ignore, .select2-input',

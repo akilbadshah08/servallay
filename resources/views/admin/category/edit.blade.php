@@ -41,7 +41,7 @@
 
                 {!! Form::bsText("name","Category Name") !!}
 
-                @if(isset($category->parent_id) && $category->parent_id!='')
+                @if(isset($category->parent_id) && $category->parent_id!='0')
                     {!! Form::bsSelect("parent_id","parent",null,$categories,"Please select a category") !!}
                 @endif
             </div>
@@ -84,6 +84,14 @@
     $(document).ready(function() {
     $(function() {
         // [ Add phone validator ]
+        @if(isset($success))
+         Swal.fire({
+            icon: "success",
+            title: 'Category Updated Successfully',
+        }).then(function(result){
+            window.location.href='{{  url("admin-category") }}'
+        })
+        @endif
 
         // [ Initialize validation ]
         $('#validation-form123').validate({
