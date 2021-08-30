@@ -84,7 +84,7 @@
                                                     <?php echo e(csrf_field()); ?>
 
 
-                                                    <a onclick='return confirm("Are you sure?")' class=""><i class="fa fa-trash"></i> Delete</a>
+                                                    <button style="border: 0;" onclick='return confirm("Are you sure?")' class=""><i class="fa fa-trash"></i> Delete</button>
 
                                                 </form>            
                                             </td>
