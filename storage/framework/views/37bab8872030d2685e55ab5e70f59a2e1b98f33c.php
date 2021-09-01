@@ -9,8 +9,8 @@
                             <h5 class="m-b-10">Add Category</h5>
                         </div>
                         <ul class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                            <li class="breadcrumb-item"><a href="#!">Category</a></li>
+                            <li class="breadcrumb-item"><a href="<?php echo e(url('admin-dashboard')); ?>">Home</a></li>
+                            <li class="breadcrumb-item"><a href="<?php echo e(url('admin-category')); ?>">Category</a></li>
                             <li class="breadcrumb-item">Add</li>
                         </ul>
                     </div>
@@ -37,10 +37,10 @@
                         <?php echo Form::bsText("name","Category Name"); ?>
 
 
-                        <?php if(isset($_GET['child'])): ?>
-                            <?php echo Form::bsSelect("parent_id","parent",null,$categories,"Please select a category"); ?>
-
+                        <?php if(isset($_GET['parent_id'])): ?>
+                            <input type="hidden" name="parent_id" value="<?php echo e($_GET['parent_id']); ?>">
                         <?php endif; ?>
+
 
 
                         <?php echo Form::bsSubmit("Save"); ?>

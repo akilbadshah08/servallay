@@ -144,7 +144,7 @@ class BlogController extends Controller
         }
 
         Session::flash("status", 1);
-        return redirect()->route('admin-blogs.index');
+        return redirect()->request()->headers->get('referer');
     }
 
     /**

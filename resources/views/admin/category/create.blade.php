@@ -11,8 +11,8 @@
                             <h5 class="m-b-10">Add Category</h5>
                         </div>
                         <ul class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                            <li class="breadcrumb-item"><a href="#!">Category</a></li>
+                            <li class="breadcrumb-item"><a href="{{ url('admin-dashboard') }}">Home</a></li>
+                            <li class="breadcrumb-item"><a href="{{ url('admin-category') }}">Category</a></li>
                             <li class="breadcrumb-item">Add</li>
                         </ul>
                     </div>
@@ -36,9 +36,10 @@
 
                         {!! Form::bsText("name","Category Name") !!}
 
-                        @if(isset($_GET['child']))
-                            {!! Form::bsSelect("parent_id","parent",null,$categories,"Please select a category") !!}
+                        @if(isset($_GET['parent_id']))
+                            <input type="hidden" name="parent_id" value="{{ $_GET['parent_id'] }}">
                         @endif
+
 
 
                         {!! Form::bsSubmit("Save") !!}

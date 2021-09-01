@@ -85,14 +85,18 @@ Route::group(["middleware" => ["is_thisAdmin","auth"]],function (){
 
         Route::resource("admin-dashboard","DashboardController");
 
-        Route::resource("admin-users","UsersController");
+        Route::resource("admin-users","UsersController")->except(['index']);
+
+        Route::get("/admin-users/index/{type?}","UsersController@index");
 
         Route::resource("admin-category","CategoryController");
 
         Route::resource("admin-products","ProductController");
 
-        Route::resource("admin-providers","ProvidersController");
+        Route::resource("admin-providers","ProvidersController")->except(['index']);
 
+
+        Route::get("/admin-providers/index/{id?}","ProvidersController@index");
 
 
          Route::resource("admin-blogs","BlogController");

@@ -11,8 +11,7 @@
                             <h5 class="m-b-10">Service List</h5>
                         </div>
                         <ul class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                            <li class="breadcrumb-item"><a href="#!">Service</a></li>
+                            <li class="breadcrumb-item"><a href="<?php echo e(url('admin-dashboard')); ?>">Home</a></li>
                             <li class="breadcrumb-item">List</li>
                         </ul>
                     </div>

@@ -11,8 +11,7 @@
                             <h5 class="m-b-10">Category</h5>
                         </div>
                         <ul class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                            <li class="breadcrumb-item"><a href="#!">Category</a></li>
+                            <li class="breadcrumb-item"><a href="<?php echo e(url('admin-dashboard')); ?>">Home</a></li>
                             <li class="breadcrumb-item">List</li>
                         </ul>
                     </div>
@@ -30,7 +29,6 @@
                     </div>
                     <div class="card-body">
                        <div class="py-3">
-                            <a class="col-sm-3 btn btn-info" href="<?php echo e(url('admin-category')); ?>/create?child=1">Add Child Category</a>
                             <a class="col-sm-3 btn btn-info" href="<?php echo e(url('admin-category')); ?>/create">Add  Category</a>
                            
                        </div>
@@ -119,6 +117,20 @@
 <script src="<?php echo e(asset('../')); ?>/assets/js/plugins/dataTables.bootstrap4.min.js"></script>
 <script src="<?php echo e(asset('../')); ?>/assets/js/pages/data-basic-custom.js"></script>
 
+<script type="text/javascript">
+    $(document).ready(function() {
+    $(function() {
+        // [ Add phone validator ]
+
+        <?php if(isset($_GET['success'])): ?>
+         Swal.fire({
+            icon: "success",
+            title: 'Category <?php echo e($_GET["success"]); ?> Successfully',
+        })
+        <?php endif; ?>
+    })
+})
+</script>
 
 <?php $__env->stopSection(); ?>
 

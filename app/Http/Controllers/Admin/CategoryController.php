@@ -43,7 +43,7 @@ class CategoryController extends Controller
         //
 
 
-        $categories = Category::orderBy('id', 'desc')->get();
+        $categories = Category::where(['parent_id' => 0])->orderBy('id', 'desc')->get();
 
         return view('admin.category', compact('categories'));
 
@@ -101,7 +101,7 @@ class CategoryController extends Controller
         ]);
 
 
-        if(!isset($_GET['child'])){
+        if(isset($request->parent_id)){
             $input = $request->only('name', 'parent_id');
         } else{
             $input = $request->only('name');
@@ -138,8 +138,12 @@ class CategoryController extends Controller
         Session::flash("status", 1);
 
 
-        $success="Added";
-        return view("admin.category.create", compact('success'));
+
+        if(isset($input['parent_id'])){
+            return redirect('admin-category/'.$input['parent_id'].'/edit?success=Inserted');
+        } else{
+            return redirect('admin-category/?success=Inserted');
+        }
 
     }
 
@@ -186,7 +190,10 @@ class CategoryController extends Controller
         $categories = Category::pluck('name', 'id')->all();
         $category = Category::find($id);
 
-        return view("admin.category.edit", compact( 'categories','category'));
+        $sub_categories = Category::where(['parent_id' => $id])->orderBy('id', 'desc')->get();
+
+
+        return view("admin.category.edit", compact( 'categories','category','sub_categories'));
 
     }
 
@@ -262,8 +269,8 @@ class CategoryController extends Controller
         Session::flash("status", 1);
 
         $success="Updated";
-        return view("admin.category.create", compact('success'));
 
+        return redirect('admin-category/'.$id.'/edit?success=Updated');
     }
 
 
@@ -295,6 +302,11 @@ class CategoryController extends Controller
 
         Session::flash("status", 1);
 
+        if(isset($category->parent_id) && $category->parent_id!=0){
+            return redirect('admin-category/'.$category->parent_id.'/edit?success=Deleted');
+        } else{
+            return redirect('admin-category/?success=Deleted');
+        }
         return redirect()->route('admin-category.index');
 
     }
