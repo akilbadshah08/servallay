@@ -2,50 +2,67 @@
 
 
 
-    <div class="container product_section_container" style="padding: 30px;">
+     <div class="page-header">
 
-        <div class="row" style="margin-bottom: 30px;">
-
-            <div class="col-md-12">
+      <div class="page-block">
+                <div class="row align-items-center">
+                    <div class="col-md-12">
+                        <div class="page-header-title">
+                            <h5 class="m-b-10">Service List</h5>
+                        </div>
+                        <ul class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                            <li class="breadcrumb-item"><a href="#!">Service</a></li>
+                            <li class="breadcrumb-item">List</li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-
         </div>
+      
 
         <div class="row">
-
-            <div class="col-md-12">
-
-                <table class="table table-hover">
-
-                    <thead>
-
-                    <tr>
-
-                        <th>ID</th>
-
-                        <th>Image</th>
-
-                        <th>Name</th>
-
-                        <th>Category</th>
-
-                        <th>Sub Category</th>
-
-                        <th>Type</th>
-
-                        <th>Created At</th>
-
-                        <th>#</th>
+            <!-- [ Form Validation ] start -->
+            <div class="col-sm-12">
+                <div class="card">
+                    <div class="card-header row">
+                        <h5 class="col-sm-6">Service List</h5>
+                    </div>
+                    <div class="card-body">
+                       
+                 
+                        <div class="dt-responsive table-responsive">
+                            <table id="simpletable" class="table table-striped table-bordered nowrap dataTable" role="grid" aria-describedby="simpletable_info">
 
 
+                                <thead>
 
-                    </tr>
+                                    <tr>
 
-                    </thead>
+                                        <th>ID</th>
 
-                    <tbody>
+                                        <th>Logo</th>
+                                        <th>Name</th>
 
-                    <?php $__currentLoopData = $providers; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $provider): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
+                                        <th>Category</th>
+
+                                        <th>Sub Category</th>
+
+                                        <th>Type</th>
+
+                                        <th>Date</th>
+
+                                        <th>#</th>
+
+
+
+                                    </tr>
+
+                                </thead>
+
+                                <tbody>
+
+                                  <?php $__currentLoopData = $providers; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $provider): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
 
                         <tr>
 
@@ -88,38 +105,36 @@
 
                     <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
 
-                    </tbody>
+                                </tbody>
 
-                </table>
-
-                <div class="row">
-
-                    <div class="col-md-12">
-
-                        <?php echo $providers->links(); ?>
-
-
+                            </table>
+                    
+                        </div>
                     </div>
-
                 </div>
-
-            </div>
-
+            </div>    
         </div>
+    
 
-    </div>
+
+
+
 
 <?php $__env->stopSection(); ?>
 
-
-
+<?php $__env->startSection('css'); ?>
+    <link rel="stylesheet" href="<?php echo e(asset('../')); ?>/assets/css/plugins/dataTables.bootstrap4.min.css">
+<?php $__env->stopSection(); ?>    
 <?php $__env->startSection('js'); ?>
 
-    <script src="<?php echo e(asset("js/laravel-delete.js")); ?>"></script>
+<script src="<?php echo e(asset('../')); ?>/assets/js/plugins/jquery.dataTables.min.js"></script>
+<script src="<?php echo e(asset('../')); ?>/assets/js/plugins/dataTables.bootstrap4.min.js"></script>
+<script src="<?php echo e(asset('../')); ?>/assets/js/pages/data-basic-custom.js"></script>
+
 
 <?php $__env->stopSection(); ?>
 
 
 
 
-<?php echo $__env->make('layouts.main', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+<?php echo $__env->make('layouts.dashboard.main', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
