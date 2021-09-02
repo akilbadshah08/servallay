@@ -11,9 +11,7 @@
                             <h5 class="m-b-10">User</h5>
                         </div>
                         <ul class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                            <li class="breadcrumb-item"><a href="#!">User</a></li>
-                            <li class="breadcrumb-item">List</li>
+                            <li class="breadcrumb-item"><a href="<?php echo e(url('admin-dashboard')); ?>">Home</a></li>
                         </ul>
                     </div>
                 </div>
@@ -41,6 +39,7 @@
 
                                         <th>ID</th>
 
+                                        <th>Image</th>
                                         <th>Name</th>
 
                                         <th>Email</th>
@@ -48,6 +47,7 @@
 
                                         <th>Date</th>
 
+                                        <th>Action</th>
 
 
                                     </tr>
@@ -59,15 +59,21 @@
                                 <?php $__currentLoopData = $users; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $user): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
 
                                     <tr>
-
+                                      
                                         <td><?php echo e($user->id); ?></td>
+
+                                        <td><img style="width: 40px" src="<?php echo e(asset('uploads/'.$user->logo)); ?>"></td>
 
                                         <td><?php echo e($user->first_name.' '.$user->last_name); ?></td>
 
                                         <td><?php echo e($user->email); ?></td>
 
                                         <td><?php echo e($user->created_at); ?></td>
-
+                                        <td>
+                                        <?php if($type==1): ?>
+                                        <a href="<?php echo e(url('admin-providers/index/'.$user->id)); ?>">View Services</a>
+                                        <?php endif; ?>
+                                        </td>
 
                                     </tr>
 

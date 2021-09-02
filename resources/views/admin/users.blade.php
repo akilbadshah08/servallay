@@ -15,9 +15,7 @@
                             <h5 class="m-b-10">User</h5>
                         </div>
                         <ul class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                            <li class="breadcrumb-item"><a href="#!">User</a></li>
-                            <li class="breadcrumb-item">List</li>
+                            <li class="breadcrumb-item"><a href="{{ url('admin-dashboard') }}">Home</a></li>
                         </ul>
                     </div>
                 </div>
@@ -45,6 +43,7 @@
 
                                         <th>ID</th>
 
+                                        <th>Image</th>
                                         <th>Name</th>
 
                                         <th>Email</th>
@@ -52,6 +51,7 @@
 
                                         <th>Date</th>
 
+                                        <th>Action</th>
 
 
                                     </tr>
@@ -63,15 +63,21 @@
                                 @foreach($users as $user)
 
                                     <tr>
-
+                                      
                                         <td>{{ $user->id }}</td>
+
+                                        <td><img style="width: 40px" src="{{ asset('uploads/'.$user->logo) }}"></td>
 
                                         <td>{{ $user->first_name.' '.$user->last_name }}</td>
 
                                         <td>{{ $user->email }}</td>
 
                                         <td>{{ $user->created_at }}</td>
-
+                                        <td>
+                                        @if($type==1)
+                                        <a href="{{ url('admin-providers/index/'.$user->id) }}">View Services</a>
+                                        @endif
+                                        </td>
 
                                     </tr>
 

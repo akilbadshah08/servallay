@@ -36,7 +36,7 @@ class ProvidersController extends Controller
 
      */
 
-    public function index()
+    public function index($id)
 
     {
 
@@ -47,8 +47,8 @@ class ProvidersController extends Controller
         	DB::raw('(select image from media where id=providers.logo) as logo_image'),
         	DB::raw('(select name from category where id=providers.category) as category_name'),
         	DB::raw('(select name from category where id=providers.sub_category) as sub_category_name'),
-    ])->orderBy('id', 'desc')->get();
-
+    ])->where(['user_id' => $id])->orderBy('id', 'desc')->get();
+    //    print_r($providers);
         return view('admin.providers.list', compact('providers'));
 
     }

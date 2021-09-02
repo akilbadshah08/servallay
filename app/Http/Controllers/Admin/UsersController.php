@@ -5,10 +5,15 @@
 namespace App\Http\Controllers\Admin;
 
 
+use DB;
 
 use App\Category;
 
 use App\User;
+
+use App\Providers;
+
+
 
 use Illuminate\Http\Request;
 
@@ -32,7 +37,7 @@ class UsersController extends Controller
 
      */
 
-    public function index()
+    public function index($type)
 
     {
 
@@ -40,8 +45,25 @@ class UsersController extends Controller
 
        // $categoryMenu = Category::orderBy('category_name','asc')->get();
 
-        $users = User::orderBy('id','desc')->get();
-        return view('admin.users', compact('users'));
+        $users_wf = User::select(['id','first_name','last_name','created_at','email',  
+            DB::raw('(select image from media where id=users.logo) as logo'),
+            DB::raw('(select image from media where id=users.banner) as banner'),
+      ])->orderBy('id','desc')->get();
+
+        foreach ($users_wf as $key => $value) {
+           $providers = Providers::where(['user_id' => $value->id])->count();
+           if($providers > 0){
+               $users_withproviders[]=$value;
+           } else{
+              $users_withoutproviders[]=$value;
+           }
+        }
+        if($type==0){
+            $users=$users_withoutproviders;
+        } else{
+            $users=$users_withproviders;
+        }
+        return view('admin.users', compact('users','type'));
 
     }
 
